@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "242637986555",
+    "project_id": "ekart-yellow",
+    "storage_bucket": "ekart-yellow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242637986555:android:09ce48eec3f29c402b2e5e",
+        "android_client_info": {
+          "package_name": "com.example.yellow_ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242637986555-bqeh6qsmagn96bpjl7tujjtjil680u8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbTzi7EKPii_m6Bwj6NuMigrfQ6FgRbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242637986555-bqeh6qsmagn96bpjl7tujjtjil680u8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242637986555-09gi5gnju67bqqi30be4b1o059aevlq4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yellowEkart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

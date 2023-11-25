@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>242637986555-1a39ii9smh1e67fib1ed953hias98hgb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.242637986555-1a39ii9smh1e67fib1ed953hias98hgb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAszREZvJ_j25P6mfa9-5qCZR3lhBbfCUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>242637986555</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.yellowEkart.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>ekart-yellow</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ekart-yellow.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:242637986555:ios:6b51bb8ec036c6f52b2e5e</string>
+</dict>
+</plist>

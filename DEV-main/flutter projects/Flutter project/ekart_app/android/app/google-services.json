@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "751174505177",
+    "project_id": "fir-loginapp-634cf",
+    "storage_bucket": "fir-loginapp-634cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751174505177:android:9de7e8a0fe7ed8c2e2a4c8",
+        "android_client_info": {
+          "package_name": "com.example.fb_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751174505177-b3nhssm8odmomg66v13bp5065q4q61so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zN0gilzMtBGIQqaOpwb2H0BJGPv4F1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751174505177-b3nhssm8odmomg66v13bp5065q4q61so.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751174505177-10jeb9mukv69lmm86kfo63h8impgmevc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbAuth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
